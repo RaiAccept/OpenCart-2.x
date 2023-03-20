@@ -6,4 +6,4 @@ For OpenCart, RaiAccept is available as the Safe payments powered by Raiffeisen 
 * OpenCart 3 : 3.0.0.0 – 3.0.3.8
 * OpenCart 4 : 4.0.0.0 – 4.0.1.1
 
-Install the extension from the OpenCart Extension Store using the Extension Installer feature.
+Download the plugin and install the extension from the OpenCart Extension Store using the Extension Installer feature.
